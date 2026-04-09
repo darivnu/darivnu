@@ -3,3 +3,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=darivnu&theme=omni&hide_border=false" width="auto" height="150px" style="padding: 20px;" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darivnu/darivnu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darivnu/darivnu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/darivnu/darivnu/output/github-snake.svg" />
+</picture>
